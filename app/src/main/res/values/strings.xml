@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinLearning</string>
+    <string name="variables">Variables</string>
+    <string name="collections">Collections</string>
+    <string name="functions">Functions</string>
+    <string name="classes">Classes</string>
+    <string name="interfaces">Interfaces</string>
+    <string name="companion">Companion</string>
+</resources>
